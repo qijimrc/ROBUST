@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+*$py.class
+.vscode
+**/__pycache__/**
+**/._*
+STDIN.*
+.*.swp
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# project-specific
+# data/*
+!README.md
+*.zip
+*.gz
+
+
+**build
+**dist
+**egg-info
